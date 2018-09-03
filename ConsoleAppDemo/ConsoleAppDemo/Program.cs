@@ -10,8 +10,10 @@ namespace ConsoleAppDemo
     {
         static void Main(string[] args)
         {
+            // Write to screen
             Console.WriteLine("Hello World!");
 
+            // Hold console window open till any key pressed 
             Console.ReadKey();
         }
     }
